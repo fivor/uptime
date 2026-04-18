@@ -1,12 +1,12 @@
 window.Config = {
 
   // [v2.0] 显示标题
-  SiteName: 'Uptime-status',
+  SiteName: 'Fivor 站点监控',
 
   // [v2.0] UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2671488-fb491a80091166a48bc66b17',
+    'ur3444415-ce44e0a96439a403956ef53f',
   ],
 
   // [v2.0] 日志天数
@@ -20,15 +20,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.zrfme.com/'
+      url: 'https://uptime.fivor.top/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://github.com/fibor/uptime/'
     },
     {
       text: '博客',
-      url: 'https://blog.zrf.me/'
+      url: 'https://fivor.de/'
     },
   ],
 
