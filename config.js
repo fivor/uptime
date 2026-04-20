@@ -24,7 +24,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/fibor/uptime/'
+      url: 'https://github.com/fivor/uptime/'
     },
     {
       text: '博客',
